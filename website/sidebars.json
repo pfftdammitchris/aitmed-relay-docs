@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Docusaurus": ["Home"],
+    "First Category": ["Download"],
+    "Second Category": ["About"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
