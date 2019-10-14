@@ -18,7 +18,7 @@ const siteConfig = {
   organizationName: 'AiTmed',
   headerLinks: [
     { doc: 'docs', label: 'Docs' },
-    { doc: 'downloads', label: 'Download' },
+    { href: 'https://testapi.aitmed.com/relay', label: 'Download' },
     { doc: 'about', label: 'About' },
   ],
   users,
