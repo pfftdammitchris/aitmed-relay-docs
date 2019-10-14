@@ -12,7 +12,7 @@ const siteConfig = {
   title: 'AiTmed Relay', // Title for your website.
   tagline: 'A Desktop Software Application for AiTmed 2.0 (internal use)',
   url: 'https://gitlab.aitmed.io', // Your website URL
-  baseUrl: '/aitmed-relay/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // Used for publishing and more
   projectName: 'aitmed-relay',
   organizationName: 'AiTmed',
