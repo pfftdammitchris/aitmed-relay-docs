@@ -11,8 +11,8 @@ const users = [
 const siteConfig = {
   title: 'AiTmed Relay', // Title for your website.
   tagline: 'A Desktop Software Application for AiTmed 2.0 (internal use)',
-  url: 'https://pfftdammitchris.github.io/aitmed-relay-docs/', // Your website URL
-  baseUrl: '/aitmed-relay/', // Base URL for your project */
+  url: 'https://pfftdammitchris.github.io', // Your website URL
+  baseUrl: '/aitmed-relay-docs/', // Base URL for your project */
   // Used for publishing and more
   projectName: 'aitmed-relay',
   organizationName: 'AiTmed',
