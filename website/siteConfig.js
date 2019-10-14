@@ -14,8 +14,8 @@ const siteConfig = {
   url: 'https://pfftdammitchris.github.io', // Your website URL
   baseUrl: '/aitmed-relay-docs/', // Base URL for your project */
   // Used for publishing and more
-  projectName: 'aitmed-relay',
-  organizationName: 'AiTmed',
+  projectName: 'aitmed-relay-docs',
+  organizationName: 'pfftdammitchris',
   headerLinks: [
     { doc: 'docs', label: 'Docs' },
     { href: 'https://testapi.aitmed.com/relay', label: 'Download' },
