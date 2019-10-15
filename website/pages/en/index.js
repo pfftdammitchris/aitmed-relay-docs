@@ -55,7 +55,7 @@ function HomeSplash(props) {
       <div className='inner'>
         <ProjectTitle siteConfig={siteConfig} />
         <PromoSection>
-          <Button href='https://test.aitmed.com/relay'>Try It Out</Button>
+          <Button href='https://test.aitmed.com/relay'>Go to downloads</Button>
         </PromoSection>
       </div>
     </SplashContainer>
