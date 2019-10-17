@@ -55,7 +55,7 @@ function HomeSplash(props) {
       <div className='inner'>
         <ProjectTitle siteConfig={siteConfig} />
         <PromoSection>
-          <Button href='https://test.aitmed.com/relay'>Go to downloads</Button>
+          <Button href={docUrl('downloads')}>Go to downloads</Button>
         </PromoSection>
       </div>
     </SplashContainer>
@@ -169,7 +169,7 @@ function Index({ config: siteConfig, language = '' }) {
     return (
       <div className='productShowcaseSection paddingBottom'>
         <div className='more-users'>
-          <a className='button' href='https://test.aitmed.com/relay'>
+          <a className='button' href={docUrl('downloads')}>
             Download It Now
           </a>
         </div>

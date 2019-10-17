@@ -18,7 +18,7 @@ const siteConfig = {
   organizationName: 'pfftdammitchris',
   headerLinks: [
     { doc: 'docs', label: 'Docs' },
-    { href: 'https://test.aitmed.com/relay', label: 'Download' },
+    { doc: 'downloads', label: 'Download' },
     { doc: 'about', label: 'About' },
   ],
   users,
